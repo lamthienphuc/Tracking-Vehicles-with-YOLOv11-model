@@ -5,3 +5,6 @@
 
 
 Streamlit app: https://tracking-vehicles-with-yolov11-model-n4pfyamgydhgaz9exzidpp.streamlit.app/
+
+
+Video demo: [streamlit-traffic yolov11 app-2025-09-30-14-09-09.webm](https://github.com/user-attachments/assets/78341c9f-59b0-4c9c-846a-8b3d528b5394)
